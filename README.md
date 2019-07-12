@@ -1,3 +1,9 @@
+
+The simple project that is using hooks context and reducers react api.
+Project is about reading list. 
+
+## Auto generated info below
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
